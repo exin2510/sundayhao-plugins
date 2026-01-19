@@ -1,0 +1,19 @@
+{
+  "name": "sundayhao-plugins",
+  "owner": {
+    "name": "sundayhao"
+  },
+  "metadata": {
+    "description": "Second Brain plugin marketplace - Agentic workflow with memory and tribal knowledge"
+  },
+  "plugins": [
+    {
+      "name": "second-brain",
+      "source": "second-brain",
+      "description": "Agentic workflow with memory and tribal knowledge. Transforms Claude from goldfish to elephant with persistent knowledge across sessions.",
+      "version": "1.0.0",
+      "keywords": ["memory", "knowledge-bank", "session-recap", "tribal-knowledge", "second-brain"],
+      "license": "Apache-2.0"
+    }
+  ]
+}

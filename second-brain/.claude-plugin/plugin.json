@@ -1,0 +1,9 @@
+{
+  "name": "second-brain",
+  "description": "Agentic workflow with memory and tribal knowledge. Transforms Claude from goldfish to elephant with persistent knowledge across sessions.",
+  "author": {
+    "name": "sundayhao"
+  },
+  "version": "1.0.0",
+  "keywords": ["memory", "knowledge-bank", "session-recap", "tribal-knowledge", "second-brain"]
+}
