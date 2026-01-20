@@ -24,7 +24,7 @@
 ### Step 1: Add the Marketplace
 
 ```bash
-claude plugins marketplace add sxhmilyoyo/sundayhao-plugins
+claude plugin marketplace add sxhmilyoyo/sundayhao-plugins
 ```
 
 Or via slash command in Claude Code:
@@ -35,7 +35,7 @@ Or via slash command in Claude Code:
 ### Step 2: Install a Plugin
 
 ```bash
-claude plugins install second-brain@sxhmilyoyo/sundayhao-plugins
+claude plugin install second-brain@sxhmilyoyo/sundayhao-plugins
 ```
 
 Or via slash command in Claude Code:
